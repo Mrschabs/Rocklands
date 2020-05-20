@@ -5,10 +5,10 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     author: 'Marc Fehr',
-    title: 'Community Isolation Map',
+    title: 'Rocklands',
     description:
       'This is the open source project for building your own community map.',
-    email: 'mail@xyz.com',
+    email: 'rschabalala@gmail.com',
     teaserImage: "https://www.whozinberg.org/teaser.jpg",
     twitter: {
       hashtag: 'yourHashtag',
