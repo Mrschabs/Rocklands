@@ -27,13 +27,13 @@ const Index = () => {
           <div className='ui container'>
             <h1 className='ui header'>
               <div className='content'>
-                <span className={'page-title'}>Community Isolation Map: The information network to keep your community safe.</span>
+                <span className={'page-title'}>Community support map: The information network to help the community of Rocklands to thrive.</span>
                 <div className='sub header'>
-                  Check out the interactive map and stay in touch with the community during the coronavirus isolation.{' '}
-                  <Link to={'/add'}>
+                  {/* Check out the interactive map and stay in touch with the community during the coronavirus isolation.{' '} */}
+                  {/* <Link to={'/add'}>
                     Add more public information to the map
                   </Link>
-                  {' '}to help keeping everyone healthy.
+                  {' '}to help keeping everyone healthy. */}
                 </div>
               </div>
             </h1>
